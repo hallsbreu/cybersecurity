@@ -34,9 +34,7 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - Acessar utilizando ```ip.do.host:porta_host```
 
-### Resutados
 
-![Alt text](./psswd.png "Optional title")
 
 ### Opcional
 
@@ -44,6 +42,3 @@
 - Seguir os processos de criação de conta e autenticação no site do ngrok.
 - Liberando link na internet: ```"ngrok http ip.do.host:porta_host```
 
-### Resutados
-
-![Alt text](./psswdngrok.png "Optional title")
